@@ -16,7 +16,7 @@ def fr_listener():
     lport=int(input("ENTER THE PORT YOU USED IN PAYLOAD : "))
     print(f"listening on {lport} for client connection")
     s=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
-    s.bind((socket.gethostname(),lport))
+    s.bind(('0.0.0.0',lport))
     s.listen(5)
     while True:
         clt,adr=s.accept()
