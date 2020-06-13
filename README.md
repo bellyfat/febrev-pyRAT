@@ -9,7 +9,7 @@ febrev-pyRAT is a tool that creates undetectable encoded python3 remote access p
   python3 febrev-pyRAT-linux.py
   
   
- #FOR Windows 
+ # FOR Windows 
  just double click the febrev-pyRAT-windows.py file
   
 IT CREATES A .pyw FILE WHICH ENCODED AND IT IS A SIMPLE FILE SO IT CANNOT BE DETECTED BY ANY ANTI-VIRUSES
