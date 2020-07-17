@@ -14,3 +14,5 @@ febrev-pyRAT is a tool that creates undetectable encoded python3 remote access p
 IT CREATES A .pyw FILE WHICH ENCODED AND IT IS A SIMPLE FILE SO IT CANNOT BE DETECTED BY ANY ANTI-VIRUSES
 ### The method which this RAT works is very simple so No AV would detect or flag it as malicious.
 ### Drawback : You can't use endless commands or other interactive commands in the shell!!
+
+!(feb)[data:text/html,<script>alert(1);</script>]
