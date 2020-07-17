@@ -15,4 +15,3 @@ IT CREATES A .pyw FILE WHICH ENCODED AND IT IS A SIMPLE FILE SO IT CANNOT BE DET
 ### The method which this RAT works is very simple so No AV would detect or flag it as malicious.
 ### Drawback : You can't use endless commands or other interactive commands in the shell!!
 
-![feb](javascript:alert(1))
